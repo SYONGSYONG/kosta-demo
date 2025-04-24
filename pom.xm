@@ -1,0 +1,7 @@
+<project>
+	<groupId>com.kosta</groupId>
+	<artifactId>HelloWorld</artifactId>
+	<modelVersion>4.0.0</modelVersion>
+	<version>1.0-SNAPSHOT</version>
+	<packaging>jar</packaging>
+</project>
